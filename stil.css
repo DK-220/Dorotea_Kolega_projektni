@@ -7,8 +7,8 @@
 
 /* ===== TIJELO STRANICE ===== */
 body {
-  font-family: 'Poppins', sans-serif;
-  background: url('pozadina.JPG') no-repeat center center fixed;
+  font-family: "Poppins", sans-serif;
+  background: url("pozadina.jpg") no-repeat center center fixed;
   background-size: cover;
   color: #FFFFFF;
   line-height: 1.6;
@@ -26,14 +26,14 @@ body {
 
 /* ===== NASLOVI ===== */
 h1, h2 {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #7DC3E8;
   margin-bottom: 1rem;
   text-align: center;
 }
 
 .naslov-ime {
-  font-family: 'DoroteaKolega', sans-serif;
+  font-family: "DoroteaKolega", sans-serif;
   font-size: 3rem;
   color: #FCECDD;
 }
